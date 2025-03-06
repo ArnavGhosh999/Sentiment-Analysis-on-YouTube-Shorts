@@ -8,12 +8,16 @@ Key points :
 - Using the `comments.csv` to train the SENTIMENT ANALYSIS model.
 - Using the `VADER (Valence Aware Dictionary and Sentiment Reasoner)` for getting the Sentiment Analysis report.
 
-NIT_RESEARCH/
+<pre>
+📁 File structure
 │── .env                      # Environment variables (API keys, credentials)
-│── comments.csv              # Scraped YouTube comments dataset
-│── config.env                # Configuration settings
-│── details.csv               # Processed data or additional details
 │── Scrapper.py               # Script for scraping YouTube comments
-│── sentiment_analysis.csv    # Output file with sentiment analysis results
+│── comments.csv              # Scraped YouTube comments dataset
+│── details.csv               # Processed data or additional details
 │── sentiment.ipynb           # Jupyter Notebook for sentiment analysis
+│── sentiment_analysis.csv    # Output file with sentiment analysis results
+│── config.env                # Configuration settings
+</pre>
+
+
 
