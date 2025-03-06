@@ -8,8 +8,9 @@ Key points :
 - Using the `comments.csv` to train the SENTIMENT ANALYSIS model.
 - Using the `VADER (Valence Aware Dictionary and Sentiment Reasoner)` for getting the Sentiment Analysis report.
 
+<h2>📁 File structure</h2>
 <pre>
-📁 File structure
+PROJECT_FILE
 │── .env                      # Environment variables (API keys, credentials)
 │── Scrapper.py               # Script for scraping YouTube comments
 │── comments.csv              # Scraped YouTube comments dataset
