@@ -27,7 +27,30 @@ PROJECT_FILE
 <img src = 'IMAGES/output.png' height = 400, width =700>
 
 - The Average Sentiment Analysis Score graph for a demo video given for training.
+
+```
+plt.figure(figsize=(10,5))
+sns.histplot(df["Sentiment_Score"], bins=20, kde=True, color='blue')
+plt.axvline(average_sentiment, color='red', linestyle='dashed', label=f'Average Score: {average_sentiment:.4f}')
+plt.xlabel("Sentiment Score")
+plt.ylabel("Frequency")
+plt.title("Distribution of Sentiment Scores")
+plt.legend()
+plt.show()
+```
    
 <img src = 'IMAGES/Piemotions.png' height = 400, width =400>
 
 - Pie Chart of the emotions taken into account and the percentage of people representing that emotion for that video.
+
+```
+emotion_counts = df["Emotion"].value_counts()
+
+# Plot pie chart
+plt.figure(figsize=(8,8))
+plt.pie(emotion_counts, labels=emotion_counts.index, autopct='%1.1f%%', colors=sns.color_palette("pastel"))
+plt.title("Emotion Distribution in Comments")
+plt.show()
+```
+
+
