@@ -20,9 +20,14 @@ PROJECT_FILE
 │── config.env                # Configuration settings
 </pre>
 
-
 <img src = 'IMAGES/VADER.png' height = 400, width =600>
 
+- General representation of how VADER works.
+  
 <img src = 'IMAGES/output.png' height = 400, width =700>
+
+- The Average Sentiment Analysis Score graph for a demo video given for training.
+   
 <img src = 'IMAGES/Piemotions.png' height = 400, width =400>
 
+- Pie Chart of the emotions taken into account and the percentage of people representing that emotion for that video.
