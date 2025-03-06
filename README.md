@@ -21,4 +21,8 @@ PROJECT_FILE
 </pre>
 
 
+<img src = 'IMAGES/VADER.png' height = 400, width =600>
+
+<img src = 'IMAGES/output.png' height = 400, width =700>
+<img src = 'IMAGES/Piemotions.png' height = 400, width =400>
 
