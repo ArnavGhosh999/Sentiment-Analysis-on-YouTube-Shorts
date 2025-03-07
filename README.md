@@ -20,9 +20,11 @@ PROJECT_FILE
 │── config.env                # Configuration settings
 </pre>
 
-<img src = 'IMAGES/VADER.png' height = 400, width =600>
+<p align="center"><img src = 'IMAGES/VADER.png' height = 400, width =600></p>
 
 - General representation of how VADER works.
+
+<p align = "justify">VADER (Valence Aware Dictionary and Sentiment Reasoner) is a rule-based sentiment analysis tool designed for social media and short text. It assigns sentiment scores to words, considering intensity and context, including punctuation, capitalization, and emojis.</p>
   
 <img src = 'IMAGES/output.png' height = 400, width =700>
 
@@ -39,18 +41,3 @@ plt.legend()
 plt.show()
 ```
    
-<img src = 'IMAGES/Piemotions.png' height = 400, width =400>
-
-- Pie Chart of the emotions taken into account and the percentage of people representing that emotion for that video.
-
-```
-emotion_counts = df["Emotion"].value_counts()
-
-# Plot pie chart
-plt.figure(figsize=(8,8))
-plt.pie(emotion_counts, labels=emotion_counts.index, autopct='%1.1f%%', colors=sns.color_palette("pastel"))
-plt.title("Emotion Distribution in Comments")
-plt.show()
-```
-
-
