@@ -17,6 +17,7 @@ PROJECT_FILE
 │── details.csv               # Processed data or additional details
 │── sentiment.ipynb           # Jupyter Notebook for sentiment analysis
 │── sentiment_analysis.csv    # Output file with sentiment analysis results
+│── each_day                  # Extracting highest sentiment of each day
 │── config.env                # Configuration settings
 </pre>
 
