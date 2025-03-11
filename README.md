@@ -27,7 +27,7 @@ PROJECT_FILE
 
 <p align = "justify">VADER (Valence Aware Dictionary and Sentiment Reasoner) is a rule-based sentiment analysis tool designed for social media and short text. It assigns sentiment scores to words, considering intensity and context, including punctuation, capitalization, and emojis.</p>
   
-<img src = 'IMAGES/output.png' align = "center" height = 400, width =700>
+<p align = "center"><img src = 'IMAGES/output.png' height = 400, width =700></p>
 
 - The Average Sentiment Analysis Score graph for a demo video given for training.
 
