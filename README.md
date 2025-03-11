@@ -42,3 +42,6 @@ plt.legend()
 plt.show()
 ```
    
+<img src = 'IMAGES/each_day.py.jpg'>
+
+<p align = "justify">Printed out what the highest sentiment from each day looks like(above)</p>
