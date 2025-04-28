@@ -1,0 +1,6439 @@
+{
+    "dominant_emotions": [
+        [
+            "calmness",
+            0.4649020371091216
+        ],
+        [
+            "serenity",
+            0.31653042688465033
+        ],
+        [
+            "crowd_excitement",
+            0.06578435188789412
+        ],
+        [
+            "contentment",
+            0.05274425846632931
+        ],
+        [
+            "anxiety",
+            0.04625664979888413
+        ],
+        [
+            "cheerfulness",
+            0.02854547813675879
+        ],
+        [
+            "boredom",
+            0.006682236927468535
+        ],
+        [
+            "happiness",
+            0.006617360840794083
+        ],
+        [
+            "euphoria",
+            0.004995458673932788
+        ],
+        [
+            "distress",
+            0.004281821720513819
+        ],
+        [
+            "elation",
+            0.0024652912936291684
+        ],
+        [
+            "depression",
+            0.00019462826002335538
+        ]
+    ],
+    "overall_dimensions": {
+        "valence": 0.6188670421814516,
+        "arousal": 0.28293626136994493,
+        "tension": 0.24624155338102235
+    },
+    "emotion_distribution": {
+        "crowd_excitement": 0.06578435188789412,
+        "anxiety": 0.04625664979888413,
+        "happiness": 0.006617360840794083,
+        "euphoria": 0.004995458673932788,
+        "contentment": 0.05274425846632931,
+        "cheerfulness": 0.02854547813675879,
+        "serenity": 0.31653042688465033,
+        "elation": 0.0024652912936291684,
+        "calmness": 0.4649020371091216,
+        "distress": 0.004281821720513819,
+        "boredom": 0.006682236927468535,
+        "depression": 0.00019462826002335538
+    },
+    "transition_count": 1273,
+    "transitions": [
+        {
+            "time": 0.32,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 0.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 0.64,
+            "from_emotion": "happiness",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 0.72,
+            "from_emotion": "euphoria",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 0.8,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 0.96,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1.04,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1.2,
+            "from_emotion": "happiness",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1.36,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1.68,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1.84,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 1.92,
+            "from_emotion": "elation",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 2.56,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 2.64,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 2.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 3.04,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 3.12,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 3.36,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 3.52,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 3.68,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 3.84,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 4.24,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 4.32,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 4.4,
+            "from_emotion": "elation",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 4.64,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 4.72,
+            "from_emotion": "elation",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 4.8,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 4.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 4.96,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 5.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 5.6,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 5.68,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 5.92,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 6.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 6.32,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 6.4,
+            "from_emotion": "elation",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 6.56,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 6.72,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 6.8,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 6.96,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 7.52,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 8.0,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 8.08,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 8.16,
+            "from_emotion": "elation",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 8.24,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 8.32,
+            "from_emotion": "elation",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 9.2,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 9.28,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 9.52,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 9.92,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 10.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 10.16,
+            "from_emotion": "happiness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 10.24,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 10.32,
+            "from_emotion": "euphoria",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 10.4,
+            "from_emotion": "happiness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 10.56,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 10.64,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 10.72,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 11.04,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 13.04,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 13.12,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 13.44,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 13.52,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 15.28,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 18.08,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 18.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 18.4,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 19.6,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 19.76,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 25.28,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 25.36,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 25.6,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 27.36,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 27.68,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 31.28,
+            "from_emotion": "serenity",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 31.68,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 31.84,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 32.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 32.48,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 32.72,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 32.8,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 32.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 33.36,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 33.52,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 33.6,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 33.68,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 34.24,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 34.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 34.64,
+            "from_emotion": "contentment",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 35.04,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 35.2,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 35.44,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 36.48,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 36.56,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 36.64,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 36.88,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 37.36,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 37.84,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 38.16,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 39.68,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 40.4,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 42.96,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 43.36,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 43.52,
+            "from_emotion": "anxiety",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 43.6,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 43.76,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 44.64,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 44.8,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 50.0,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 50.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 50.4,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 50.48,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 50.64,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 51.28,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 51.36,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 51.44,
+            "from_emotion": "happiness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 51.68,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 51.76,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 54.64,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 56.88,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 57.36,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 57.84,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 58.16,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 58.24,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 59.44,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 60.24,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 62.56,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 66.88,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 67.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 67.12,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 67.28,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 67.68,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 68.0,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 68.08,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 68.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 70.0,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 71.2,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 71.28,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 71.44,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 74.72,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 76.0,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 76.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 76.32,
+            "from_emotion": "happiness",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 76.4,
+            "from_emotion": "euphoria",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 76.48,
+            "from_emotion": "anxiety",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 76.56,
+            "from_emotion": "euphoria",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 76.64,
+            "from_emotion": "contentment",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 76.72,
+            "from_emotion": "euphoria",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 79.04,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 79.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 80.4,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 80.48,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 80.64,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 89.84,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 89.92,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 90.4,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 96.08,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 96.32,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 96.4,
+            "from_emotion": "happiness",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 96.48,
+            "from_emotion": "euphoria",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 96.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 96.8,
+            "from_emotion": "contentment",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 96.88,
+            "from_emotion": "distress",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 97.28,
+            "from_emotion": "euphoria",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 97.36,
+            "from_emotion": "distress",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 97.92,
+            "from_emotion": "euphoria",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 98.16,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 98.32,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 98.4,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 99.84,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 101.04,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 107.28,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 109.84,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 110.08,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 116.0,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 116.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 116.32,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 116.48,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 117.52,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 117.6,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 117.76,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 117.92,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 118.24,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 118.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 120.72,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 121.76,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 122.88,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 127.6,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 129.52,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 130.0,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 130.8,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 133.04,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 136.96,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 137.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 137.36,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 137.44,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 137.6,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 137.68,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 138.0,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 138.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 138.16,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 138.8,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 144.08,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 144.24,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 144.4,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 144.72,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 146.4,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 146.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 149.52,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 151.12,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 151.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 152.8,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 153.28,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 153.36,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 153.68,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 154.16,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 154.32,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 154.48,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 154.72,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 154.96,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 155.6,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 156.4,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 156.56,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 157.04,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 157.12,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 157.2,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 157.28,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 157.52,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 162.24,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 162.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 163.12,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 163.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 163.28,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 163.44,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 163.52,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 163.6,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 168.08,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 170.0,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 171.52,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 171.68,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 171.84,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 171.92,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 172.0,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 172.72,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 173.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 178.4,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 181.2,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 186.08,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 187.36,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 189.76,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 193.44,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 194.0,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 198.08,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 200.24,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 200.4,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 200.48,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 201.6,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 201.76,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 210.8,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 210.96,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 211.2,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 211.76,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 214.48,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 214.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 219.52,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 219.84,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 220.8,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 220.88,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 220.96,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 223.6,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 223.76,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 224.0,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 224.16,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 224.56,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 224.88,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 225.2,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 225.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 225.36,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 231.44,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 231.76,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 232.72,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 232.96,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 238.96,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 239.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 239.68,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 239.84,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 240.32,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 240.4,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 244.8,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 245.44,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 245.68,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 245.84,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 246.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 246.72,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 247.12,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 247.28,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 247.6,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 247.76,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 247.92,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 248.4,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 250.0,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 256.24,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 256.48,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 257.28,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 257.52,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 257.84,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 258.48,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 258.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 264.96,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 267.84,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 269.36,
+            "from_emotion": "calmness",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 269.6,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 271.84,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 272.08,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 272.24,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 272.32,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 272.48,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 276.88,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 277.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 277.12,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 280.4,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 280.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 286.16,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 286.32,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 286.48,
+            "from_emotion": "happiness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 287.44,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 287.52,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 287.68,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 287.76,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 289.2,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 293.84,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 294.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 294.32,
+            "from_emotion": "distress",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 294.4,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 294.48,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 294.72,
+            "from_emotion": "contentment",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 295.36,
+            "from_emotion": "distress",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 295.44,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 295.68,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 295.76,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 295.92,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 296.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 297.84,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 301.36,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 301.44,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 301.76,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 302.88,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 305.52,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 308.8,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 308.96,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 309.12,
+            "from_emotion": "happiness",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 309.2,
+            "from_emotion": "euphoria",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 309.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 311.52,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 312.08,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 312.64,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 312.72,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 312.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 315.12,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 315.36,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 315.44,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 315.68,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 316.08,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 317.92,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 318.4,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 318.48,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 318.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 318.64,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 318.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 324.56,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 325.76,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 325.92,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 326.08,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 326.48,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 330.16,
+            "from_emotion": "serenity",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 330.4,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 330.48,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 332.56,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 332.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 332.8,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 332.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 333.04,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 339.36,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 339.6,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 339.76,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 340.32,
+            "from_emotion": "contentment",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 340.48,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 347.36,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 347.52,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 347.6,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 348.0,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 348.16,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 348.48,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 349.6,
+            "from_emotion": "contentment",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 349.84,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 350.72,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 351.12,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 351.68,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 353.68,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 354.08,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 354.56,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 354.72,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 356.4,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 356.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 356.64,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 362.64,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 362.8,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 363.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 364.96,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 365.36,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 368.24,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 371.84,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 372.0,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 372.16,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 372.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 372.32,
+            "from_emotion": "distress",
+            "to_emotion": "boredom"
+        },
+        {
+            "time": 372.8,
+            "from_emotion": "boredom",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 373.04,
+            "from_emotion": "distress",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 373.6,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 373.76,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 390.64,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 394.48,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 396.32,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 396.4,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 396.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 396.64,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 399.68,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 400.0,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 401.76,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 404.0,
+            "from_emotion": "calmness",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 404.24,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 404.64,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 404.88,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 405.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 406.48,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 409.2,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 409.52,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 409.6,
+            "from_emotion": "contentment",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 409.84,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 418.72,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 419.12,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 419.44,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 420.24,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 420.4,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 420.48,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 420.72,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 422.64,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 422.8,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 422.88,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 422.96,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 423.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 428.88,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 429.12,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 429.2,
+            "from_emotion": "happiness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 429.28,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 430.8,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 431.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 432.48,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 432.56,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 432.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 432.88,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 435.28,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 436.8,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 436.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 438.08,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 438.4,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 438.64,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 439.12,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 439.2,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 439.92,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 440.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 441.44,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 444.88,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 444.96,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 445.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 445.36,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 445.44,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 447.84,
+            "from_emotion": "contentment",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 448.08,
+            "from_emotion": "euphoria",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 448.24,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 448.4,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 448.48,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 448.8,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 449.04,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 449.76,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 449.92,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 450.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 450.56,
+            "from_emotion": "distress",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 450.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 451.44,
+            "from_emotion": "euphoria",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 452.0,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 452.48,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 453.6,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 453.68,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 453.84,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 457.84,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 458.0,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 458.24,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 459.12,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 459.28,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 459.52,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 459.6,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 465.12,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 465.6,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 467.36,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 467.52,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 468.88,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 469.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 474.48,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 476.48,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 476.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 477.44,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 478.24,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 478.64,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 478.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 478.96,
+            "from_emotion": "happiness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 479.52,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 479.84,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 480.72,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 481.2,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 481.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 482.4,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 482.56,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 485.6,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 489.28,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 490.24,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 490.56,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 490.64,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 496.56,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 496.8,
+            "from_emotion": "anxiety",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 496.88,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 497.04,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 498.08,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 499.28,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 500.64,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 505.2,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 505.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 506.72,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 506.8,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 507.68,
+            "from_emotion": "calmness",
+            "to_emotion": "boredom"
+        },
+        {
+            "time": 508.32,
+            "from_emotion": "boredom",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 508.8,
+            "from_emotion": "calmness",
+            "to_emotion": "boredom"
+        },
+        {
+            "time": 508.88,
+            "from_emotion": "boredom",
+            "to_emotion": "depression"
+        },
+        {
+            "time": 508.96,
+            "from_emotion": "depression",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 509.04,
+            "from_emotion": "distress",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 509.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 509.36,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 515.76,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 515.84,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 516.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 516.16,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 516.96,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 517.04,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 517.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 517.28,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 525.28,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 525.36,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 525.6,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 525.76,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 525.92,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 526.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 526.72,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 526.8,
+            "from_emotion": "happiness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 526.88,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 526.96,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 531.92,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 532.32,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 532.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 532.64,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 535.2,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 536.56,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 536.64,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 536.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 536.96,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 537.12,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 538.96,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 539.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 539.12,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 539.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 539.36,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 542.8,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 545.04,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 545.44,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 546.56,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 547.76,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 551.6,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 552.16,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 552.64,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 552.96,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 553.12,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 553.36,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 553.52,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 554.32,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 554.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 555.68,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 556.0,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 556.08,
+            "from_emotion": "happiness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 556.24,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 556.4,
+            "from_emotion": "happiness",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 556.48,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 561.84,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 562.0,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 562.08,
+            "from_emotion": "elation",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 564.0,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 564.16,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 565.2,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 569.6,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 573.92,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 574.16,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 574.56,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 574.96,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 575.04,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 575.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 580.32,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 580.48,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 582.16,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 582.48,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 583.12,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 583.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 584.4,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 584.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 588.88,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 588.96,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 589.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 589.68,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 590.0,
+            "from_emotion": "euphoria",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 590.32,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 590.48,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 591.52,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 595.76,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 595.84,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 596.0,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 596.08,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 596.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 596.64,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 596.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 596.8,
+            "from_emotion": "happiness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 597.12,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 597.2,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 602.08,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 603.92,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 604.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 604.32,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 604.56,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 604.72,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 604.8,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 605.12,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 605.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 605.36,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 606.08,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 607.52,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 607.84,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 608.08,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 615.84,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 616.08,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 619.28,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 619.36,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 619.6,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 619.68,
+            "from_emotion": "happiness",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 619.76,
+            "from_emotion": "euphoria",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 619.84,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 619.92,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 620.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 620.16,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 620.48,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 621.36,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 622.0,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 622.16,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 623.04,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 623.84,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 624.32,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 624.4,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 624.8,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 624.96,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 625.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 630.0,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 630.4,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 630.48,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 630.64,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 631.12,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 631.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 631.52,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 634.96,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 635.12,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 635.2,
+            "from_emotion": "elation",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 637.6,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 638.08,
+            "from_emotion": "euphoria",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 638.8,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 638.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 639.04,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 639.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 649.36,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 649.52,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 649.6,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 652.56,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 656.08,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 656.72,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 659.44,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 663.52,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 663.84,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 670.4,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 672.0,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 673.84,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 674.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 676.16,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 676.24,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 676.48,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 676.56,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 676.64,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 676.72,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 676.8,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 677.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 681.36,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 684.56,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 684.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 685.6,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 685.68,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 686.48,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 686.64,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 694.96,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 695.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 695.36,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 698.32,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 698.64,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 702.0,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 703.84,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 703.92,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 704.16,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 705.76,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 706.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 706.16,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 710.56,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 710.72,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 710.8,
+            "from_emotion": "elation",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 710.88,
+            "from_emotion": "happiness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 712.08,
+            "from_emotion": "contentment",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 712.16,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 712.48,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 712.88,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 717.6,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 717.76,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 717.84,
+            "from_emotion": "elation",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 719.84,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 719.92,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 720.32,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 720.4,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 720.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 720.72,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 723.92,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 724.16,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 725.36,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 725.6,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 725.76,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 727.92,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 728.72,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 729.84,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 730.16,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 730.88,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 731.28,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 731.36,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 731.68,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 732.08,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 732.24,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 732.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 732.64,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 733.2,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 733.76,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 734.0,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 734.48,
+            "from_emotion": "contentment",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 734.88,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 735.68,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 737.04,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 737.12,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 741.12,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 741.2,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 741.92,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 742.32,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 743.44,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 743.52,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 743.76,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 750.64,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 750.72,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 750.8,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 750.88,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 751.04,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 751.12,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 751.6,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 752.16,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 752.24,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 752.32,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 752.56,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 755.52,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 757.92,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 758.0,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 758.08,
+            "from_emotion": "happiness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 759.6,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 759.68,
+            "from_emotion": "happiness",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 759.84,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 764.56,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 764.64,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 764.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 765.28,
+            "from_emotion": "calmness",
+            "to_emotion": "boredom"
+        },
+        {
+            "time": 766.56,
+            "from_emotion": "boredom",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 766.64,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 766.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 772.32,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 772.4,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 772.48,
+            "from_emotion": "elation",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 772.8,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 772.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 773.28,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 773.44,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 773.52,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 774.72,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 774.96,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 775.04,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 780.32,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 780.4,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 780.64,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 781.2,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 789.2,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 789.36,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 789.44,
+            "from_emotion": "happiness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 789.76,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 789.84,
+            "from_emotion": "contentment",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 790.08,
+            "from_emotion": "euphoria",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 790.16,
+            "from_emotion": "contentment",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 790.32,
+            "from_emotion": "euphoria",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 791.04,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 791.12,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 791.36,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 791.6,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 791.76,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 792.0,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 794.0,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 797.76,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 801.84,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 804.16,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 804.56,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 804.64,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 818.72,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 819.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 820.32,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 820.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 820.64,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 826.24,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 826.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 826.8,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 826.88,
+            "from_emotion": "euphoria",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 826.96,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 827.04,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 827.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 833.52,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 833.6,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 833.84,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 835.76,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 836.24,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 843.04,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 843.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 843.36,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 843.52,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 844.56,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 844.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 844.88,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 845.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 845.84,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 848.72,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 849.04,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 850.24,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 850.4,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 850.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 855.68,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 855.92,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 856.48,
+            "from_emotion": "calmness",
+            "to_emotion": "boredom"
+        },
+        {
+            "time": 858.32,
+            "from_emotion": "boredom",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 858.64,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 858.88,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 860.16,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 860.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 860.96,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 862.08,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 862.32,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 862.4,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 865.84,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 868.16,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 869.36,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 872.56,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 872.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 872.96,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 873.28,
+            "from_emotion": "euphoria",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 873.68,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 874.48,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 874.8,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 875.44,
+            "from_emotion": "euphoria",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 875.52,
+            "from_emotion": "elation",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 875.76,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 879.76,
+            "from_emotion": "calmness",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 880.16,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 880.4,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 880.72,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 880.8,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 887.68,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 887.84,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 887.92,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 888.0,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 890.56,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 891.36,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 891.44,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 891.76,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 891.84,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 895.68,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 897.44,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 897.68,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 910.32,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 910.48,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 914.0,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 915.6,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 916.64,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 916.8,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 918.0,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 918.32,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 929.68,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 930.0,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 930.16,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 932.96,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 933.12,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 933.2,
+            "from_emotion": "happiness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 934.64,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 935.6,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 936.64,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 936.96,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 939.52,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 939.68,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 939.76,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 952.48,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 953.2,
+            "from_emotion": "calmness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 953.68,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 953.76,
+            "from_emotion": "euphoria",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 955.52,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 955.68,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 958.72,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 958.8,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 959.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 959.2,
+            "from_emotion": "distress",
+            "to_emotion": "boredom"
+        },
+        {
+            "time": 960.08,
+            "from_emotion": "boredom",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 960.24,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 960.32,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 960.8,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 961.04,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 961.2,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 961.28,
+            "from_emotion": "calmness",
+            "to_emotion": "boredom"
+        },
+        {
+            "time": 961.68,
+            "from_emotion": "boredom",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 961.84,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 962.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 962.32,
+            "from_emotion": "contentment",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 963.52,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 964.48,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 965.36,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 965.6,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 966.96,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 967.2,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 967.52,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 967.68,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 968.4,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 968.56,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 981.92,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 982.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 982.16,
+            "from_emotion": "happiness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 982.32,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 982.4,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 983.2,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 983.44,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 990.88,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 991.2,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 995.52,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 999.84,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1002.88,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1003.36,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1004.64,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1004.96,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1006.48,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1006.56,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1008.08,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1008.4,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1008.56,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1008.64,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1009.04,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1010.08,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1010.88,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1011.52,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1011.6,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1012.0,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1012.4,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1012.88,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1013.2,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1013.52,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1014.08,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1022.56,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1022.8,
+            "from_emotion": "anxiety",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 1022.96,
+            "from_emotion": "distress",
+            "to_emotion": "boredom"
+        },
+        {
+            "time": 1024.24,
+            "from_emotion": "boredom",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 1024.4,
+            "from_emotion": "distress",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1024.64,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1024.8,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1025.44,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1025.76,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1025.84,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1026.0,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1026.08,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1026.32,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1026.4,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1029.28,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1029.92,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1030.0,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1030.88,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1031.2,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1032.48,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1033.36,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1033.6,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1033.84,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1034.96,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1035.12,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1035.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1040.08,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1040.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1040.32,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1041.2,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1041.68,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1041.92,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1052.08,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1052.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1052.72,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1052.8,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1052.96,
+            "from_emotion": "anxiety",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 1053.04,
+            "from_emotion": "euphoria",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1053.44,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 1053.76,
+            "from_emotion": "euphoria",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1054.0,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1054.4,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1054.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1054.96,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1055.12,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1055.2,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 1055.28,
+            "from_emotion": "elation",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1055.44,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1055.6,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1055.84,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1057.04,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1057.28,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1057.44,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1057.6,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1058.08,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1058.16,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1058.32,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1060.56,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1060.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1060.88,
+            "from_emotion": "happiness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1062.88,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1063.6,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1063.92,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1066.08,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1067.6,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1068.24,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1068.48,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1070.32,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1070.64,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1070.72,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1070.8,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1070.88,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1070.96,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1071.36,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1071.6,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1071.84,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1071.92,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1072.16,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1072.24,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1073.36,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1073.52,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1073.84,
+            "from_emotion": "serenity",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1074.0,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1076.16,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1076.4,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1078.24,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1078.56,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1078.8,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1079.2,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1079.92,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1080.0,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1080.8,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1081.04,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1081.92,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1082.16,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1083.76,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1083.92,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1084.4,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1084.48,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1084.72,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1084.8,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1084.88,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1085.2,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1095.92,
+            "from_emotion": "serenity",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1096.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1096.16,
+            "from_emotion": "happiness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1096.24,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 1096.4,
+            "from_emotion": "euphoria",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1096.48,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1096.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1100.32,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1100.48,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1100.56,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1101.04,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1101.84,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1102.08,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1102.24,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1102.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1104.56,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1104.8,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1104.96,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1105.28,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1105.36,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1106.0,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1106.32,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1106.48,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1107.44,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1107.52,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1107.92,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1108.56,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1108.64,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1108.72,
+            "from_emotion": "happiness",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 1108.96,
+            "from_emotion": "euphoria",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1109.04,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1109.12,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1111.68,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1111.92,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1117.6,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1117.76,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1118.0,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1118.16,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1124.64,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1126.64,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1127.04,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1127.68,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1127.84,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1128.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 1128.16,
+            "from_emotion": "distress",
+            "to_emotion": "boredom"
+        },
+        {
+            "time": 1128.24,
+            "from_emotion": "boredom",
+            "to_emotion": "distress"
+        },
+        {
+            "time": 1131.2,
+            "from_emotion": "distress",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1131.28,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1131.52,
+            "from_emotion": "anxiety",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1133.6,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1138.64,
+            "from_emotion": "calmness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1139.92,
+            "from_emotion": "serenity",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1141.04,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1141.52,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1141.84,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1151.36,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1151.6,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1151.68,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1151.84,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1152.64,
+            "from_emotion": "contentment",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1153.04,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1153.12,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1153.36,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1154.8,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1155.28,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1157.04,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1157.36,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1157.44,
+            "from_emotion": "anxiety",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 1157.52,
+            "from_emotion": "euphoria",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1157.84,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1161.84,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1161.92,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1162.08,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1162.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1168.16,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1168.32,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1168.48,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1168.56,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1169.6,
+            "from_emotion": "calmness",
+            "to_emotion": "boredom"
+        },
+        {
+            "time": 1170.24,
+            "from_emotion": "boredom",
+            "to_emotion": "depression"
+        },
+        {
+            "time": 1170.4,
+            "from_emotion": "depression",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1170.64,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1174.88,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1175.04,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1175.84,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1176.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1176.32,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1176.48,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1176.64,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1176.96,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1181.28,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1181.6,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1181.68,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1190.0,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1190.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1192.32,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1192.4,
+            "from_emotion": "contentment",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1194.56,
+            "from_emotion": "calmness",
+            "to_emotion": "boredom"
+        },
+        {
+            "time": 1195.2,
+            "from_emotion": "boredom",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1199.12,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1199.6,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1207.84,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1207.92,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1208.0,
+            "from_emotion": "happiness",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 1208.08,
+            "from_emotion": "euphoria",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1208.24,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 1208.32,
+            "from_emotion": "euphoria",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1208.4,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1208.72,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1208.8,
+            "from_emotion": "happiness",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 1208.88,
+            "from_emotion": "euphoria",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1209.12,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1209.2,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1209.36,
+            "from_emotion": "happiness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 1209.44,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1209.52,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1209.76,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1209.92,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 1210.0,
+            "from_emotion": "elation",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1210.64,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1210.72,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1210.8,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1211.2,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1211.28,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1211.52,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1211.68,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1211.92,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 1212.0,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1212.4,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1212.8,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1212.88,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1212.96,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1213.04,
+            "from_emotion": "calmness",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1213.12,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1213.2,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1213.76,
+            "from_emotion": "calmness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1213.92,
+            "from_emotion": "anxiety",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1214.08,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1214.32,
+            "from_emotion": "anxiety",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1214.4,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 1214.56,
+            "from_emotion": "elation",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1214.64,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "happiness"
+        },
+        {
+            "time": 1214.8,
+            "from_emotion": "happiness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1215.52,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1215.6,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1215.68,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1216.16,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1216.24,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 1216.32,
+            "from_emotion": "elation",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1216.4,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 1216.48,
+            "from_emotion": "elation",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 1216.56,
+            "from_emotion": "euphoria",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1217.44,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1217.6,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1218.0,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1218.08,
+            "from_emotion": "anxiety",
+            "to_emotion": "contentment"
+        },
+        {
+            "time": 1218.16,
+            "from_emotion": "contentment",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1218.24,
+            "from_emotion": "anxiety",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1218.4,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "euphoria"
+        },
+        {
+            "time": 1218.48,
+            "from_emotion": "euphoria",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 1218.64,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1218.72,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1218.88,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1219.2,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1221.12,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1221.2,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "crowd_excitement"
+        },
+        {
+            "time": 1221.36,
+            "from_emotion": "crowd_excitement",
+            "to_emotion": "elation"
+        },
+        {
+            "time": 1221.52,
+            "from_emotion": "elation",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1221.6,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "anxiety"
+        },
+        {
+            "time": 1221.68,
+            "from_emotion": "anxiety",
+            "to_emotion": "calmness"
+        },
+        {
+            "time": 1222.64,
+            "from_emotion": "calmness",
+            "to_emotion": "cheerfulness"
+        },
+        {
+            "time": 1222.96,
+            "from_emotion": "cheerfulness",
+            "to_emotion": "serenity"
+        },
+        {
+            "time": 1233.12,
+            "from_emotion": "serenity",
+            "to_emotion": "cheerfulness"
+        }
+    ]
+}

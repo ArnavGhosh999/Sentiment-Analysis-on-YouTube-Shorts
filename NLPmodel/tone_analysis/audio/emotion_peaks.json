@@ -1,0 +1,98 @@
+{
+    "crowd_excitement": {
+        "time_start": 1212.48,
+        "time_end": 1212.8,
+        "intensity": 0.9304399990298202,
+        "valence": 0.8658861510416667,
+        "arousal": 0.9949938470179738,
+        "tension": 0.7198966690155228
+    },
+    "anxiety": {
+        "time_start": 826.48,
+        "time_end": 826.8,
+        "intensity": 0.6451255668402778,
+        "valence": 0.6445080781249999,
+        "arousal": 0.6457430555555556,
+        "tension": 0.4147817235668574
+    },
+    "happiness": {
+        "time_start": 10.32,
+        "time_end": 10.64,
+        "intensity": 0.7270686280552151,
+        "valence": 0.6394507994791667,
+        "arousal": 0.8146864566312635,
+        "tension": 0.7414205189014842
+    },
+    "euphoria": {
+        "time_start": 953.68,
+        "time_end": 954.0,
+        "intensity": 0.8298837302645016,
+        "valence": 0.7936869713541667,
+        "arousal": 0.8660804891748365,
+        "tension": 0.6514133652556509
+    },
+    "contentment": {
+        "time_start": 1060.88,
+        "time_end": 1061.2,
+        "intensity": 0.6085995569087009,
+        "valence": 0.6254367057291667,
+        "arousal": 0.5917624080882352,
+        "tension": 0.3827267818201934
+    },
+    "cheerfulness": {
+        "time_start": 9.44,
+        "time_end": 9.76,
+        "intensity": 0.710177897731141,
+        "valence": 0.8314955251736111,
+        "arousal": 0.5888602702886709,
+        "tension": 0.4642248490689678
+    },
+    "serenity": {
+        "time_start": 874.4,
+        "time_end": 874.72,
+        "intensity": 0.6450532296517566,
+        "valence": 0.8944479574652778,
+        "arousal": 0.3956585018382353,
+        "tension": 0.27234378508816726
+    },
+    "elation": {
+        "time_start": 4.32,
+        "time_end": 4.64,
+        "intensity": 0.8192657853179467,
+        "valence": 0.8269193906250001,
+        "arousal": 0.8116121800108933,
+        "tension": 0.6899276875680828
+    },
+    "calmness": {
+        "time_start": 155.6,
+        "time_end": 155.92,
+        "intensity": 0.5218340297096269,
+        "valence": 0.6472005876736111,
+        "arousal": 0.3964674717456427,
+        "tension": 0.27619582348686
+    },
+    "distress": {
+        "time_start": 1131.12,
+        "time_end": 1131.44,
+        "intensity": 0.5036672903986247,
+        "valence": 0.37675732725694444,
+        "arousal": 0.6305772535403049,
+        "tension": 0.514305016944104
+    },
+    "boredom": {
+        "time_start": 960.0,
+        "time_end": 960.32,
+        "intensity": 0.38859016206256813,
+        "valence": 0.3970700980902778,
+        "arousal": 0.3801102260348584,
+        "tension": 0.33768053248400054
+    },
+    "depression": {
+        "time_start": 1170.32,
+        "time_end": 1170.64,
+        "intensity": 0.37809546816278594,
+        "valence": 0.37720194531250006,
+        "arousal": 0.3789889910130718,
+        "tension": 0.4354855644658905
+    }
+}
