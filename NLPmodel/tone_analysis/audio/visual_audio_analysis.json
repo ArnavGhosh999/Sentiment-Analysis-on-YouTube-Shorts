@@ -1,0 +1,2240 @@
+{
+    "duration": 1233.48,
+    "tempo": 86.82673588578844,
+    "overall_emotion": "calmness",
+    "emotional_dimensions": {
+        "arousal": 0.3834091729333676,
+        "valence": 0.6162706598370771,
+        "tension": 0.34743704900101513
+    },
+    "average_features": {
+        "brightness": 121.51191098196688,
+        "saturation": 127.3193142667954,
+        "motion": 0.0634869569883163
+    },
+    "emotion_segments": [
+        {
+            "segment": 0,
+            "start_time": 0.0,
+            "end_time": 5.0,
+            "arousal": 0.5879245284469132,
+            "valence": 0.6528544630656362,
+            "tension": 0.5398030276937723,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 1,
+            "start_time": 5.0,
+            "end_time": 10.0,
+            "arousal": 0.6331983867973772,
+            "valence": 0.6074076587701612,
+            "tension": 0.5983908820399799,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 2,
+            "start_time": 10.0,
+            "end_time": 15.0,
+            "arousal": 0.4107170166302094,
+            "valence": 0.804634681299603,
+            "tension": 0.2624384649924785,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 3,
+            "start_time": 15.0,
+            "end_time": 20.0,
+            "arousal": 0.36507807545039217,
+            "valence": 0.6485076868419578,
+            "tension": 0.32077619891320097,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 4,
+            "start_time": 20.0,
+            "end_time": 25.0,
+            "arousal": 0.303379625886875,
+            "valence": 0.6995340987378748,
+            "tension": 0.2616256821084916,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 5,
+            "start_time": 25.0,
+            "end_time": 30.0,
+            "arousal": 0.3386921407505714,
+            "valence": 0.5774929827508961,
+            "tension": 0.334972765053434,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 6,
+            "start_time": 30.0,
+            "end_time": 35.0,
+            "arousal": 0.4613294926391315,
+            "valence": 0.5420949820188491,
+            "tension": 0.4604224274431996,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 7,
+            "start_time": 35.0,
+            "end_time": 40.0,
+            "arousal": 0.5180475567913156,
+            "valence": 0.6777886153113799,
+            "tension": 0.43809539169565676,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 8,
+            "start_time": 40.0,
+            "end_time": 45.0,
+            "arousal": 0.44784023918311944,
+            "valence": 0.6637688340498236,
+            "tension": 0.35620625875350137,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 9,
+            "start_time": 45.0,
+            "end_time": 50.0,
+            "arousal": 0.31047422503926,
+            "valence": 0.5653828235607078,
+            "tension": 0.28619686001080547,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 10,
+            "start_time": 50.0,
+            "end_time": 55.0,
+            "arousal": 0.382142346021225,
+            "valence": 0.6276749046516755,
+            "tension": 0.33424900877943764,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 11,
+            "start_time": 55.0,
+            "end_time": 60.0,
+            "arousal": 0.3689526545999283,
+            "valence": 0.5943172541792674,
+            "tension": 0.3500295160219666,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 12,
+            "start_time": 60.0,
+            "end_time": 65.0,
+            "arousal": 0.27591980607932237,
+            "valence": 0.6295988085937501,
+            "tension": 0.2559899482246602,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 13,
+            "start_time": 65.0,
+            "end_time": 70.0,
+            "arousal": 0.4845674306514779,
+            "valence": 0.6400399424913195,
+            "tension": 0.46068705445030833,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 14,
+            "start_time": 70.0,
+            "end_time": 75.0,
+            "arousal": 0.43189269129822466,
+            "valence": 0.7074819223296958,
+            "tension": 0.3588457819389329,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 15,
+            "start_time": 75.0,
+            "end_time": 80.0,
+            "arousal": 0.6046234177640648,
+            "valence": 0.5317694901923723,
+            "tension": 0.581661589249947,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 16,
+            "start_time": 80.0,
+            "end_time": 85.0,
+            "arousal": 0.3497620136799552,
+            "valence": 0.5877767536100088,
+            "tension": 0.33343183078671285,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 17,
+            "start_time": 85.0,
+            "end_time": 90.0,
+            "arousal": 0.3634449409297828,
+            "valence": 0.5809846818296371,
+            "tension": 0.34630610636727804,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 18,
+            "start_time": 90.0,
+            "end_time": 95.0,
+            "arousal": 0.32838401722674426,
+            "valence": 0.5953042827863204,
+            "tension": 0.28952731799201165,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 19,
+            "start_time": 95.0,
+            "end_time": 100.0,
+            "arousal": 0.4701944665464811,
+            "valence": 0.552110575891857,
+            "tension": 0.4434708918406072,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 20,
+            "start_time": 100.0,
+            "end_time": 105.0,
+            "arousal": 0.33195700683925594,
+            "valence": 0.6354320815076608,
+            "tension": 0.26859626715037865,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 21,
+            "start_time": 105.0,
+            "end_time": 110.0,
+            "arousal": 0.3381107642483576,
+            "valence": 0.6242415781460013,
+            "tension": 0.30534844262268074,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 22,
+            "start_time": 110.0,
+            "end_time": 115.0,
+            "arousal": 0.36211315309405423,
+            "valence": 0.6328056977513227,
+            "tension": 0.30693422777907464,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 23,
+            "start_time": 115.0,
+            "end_time": 120.0,
+            "arousal": 0.42837090583859583,
+            "valence": 0.5999917456667226,
+            "tension": 0.39146278266161977,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 24,
+            "start_time": 120.0,
+            "end_time": 125.0,
+            "arousal": 0.3003296628461032,
+            "valence": 0.6815209508308533,
+            "tension": 0.22996209665810763,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 25,
+            "start_time": 125.0,
+            "end_time": 130.0,
+            "arousal": 0.34783230948607635,
+            "valence": 0.6475253356014785,
+            "tension": 0.30456925827370596,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 26,
+            "start_time": 130.0,
+            "end_time": 135.0,
+            "arousal": 0.32526604110110885,
+            "valence": 0.6403149427841159,
+            "tension": 0.2886611417726813,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 27,
+            "start_time": 135.0,
+            "end_time": 140.0,
+            "arousal": 0.3854514175795825,
+            "valence": 0.5908837411444333,
+            "tension": 0.35635476015641465,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 28,
+            "start_time": 140.0,
+            "end_time": 145.0,
+            "arousal": 0.40274500108788136,
+            "valence": 0.5887107561383929,
+            "tension": 0.35790152178811346,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 29,
+            "start_time": 145.0,
+            "end_time": 150.0,
+            "arousal": 0.39317827821631035,
+            "valence": 0.6152119669158826,
+            "tension": 0.3665075504526407,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 30,
+            "start_time": 150.0,
+            "end_time": 155.0,
+            "arousal": 0.43728081992930673,
+            "valence": 0.5934517886422508,
+            "tension": 0.4183891505942654,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 31,
+            "start_time": 155.0,
+            "end_time": 160.0,
+            "arousal": 0.3822523528394392,
+            "valence": 0.6026071240759407,
+            "tension": 0.3604847716371495,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 32,
+            "start_time": 160.0,
+            "end_time": 165.0,
+            "arousal": 0.3692681208682009,
+            "valence": 0.5882467674920084,
+            "tension": 0.33667794073069035,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 33,
+            "start_time": 165.0,
+            "end_time": 170.0,
+            "arousal": 0.33471660608105847,
+            "valence": 0.6837712301537299,
+            "tension": 0.2645926438303816,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 34,
+            "start_time": 170.0,
+            "end_time": 175.0,
+            "arousal": 0.37848657908482086,
+            "valence": 0.626440715388007,
+            "tension": 0.3392946839175485,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 35,
+            "start_time": 175.0,
+            "end_time": 180.0,
+            "arousal": 0.3137094483288446,
+            "valence": 0.6314823165182571,
+            "tension": 0.2709076056738219,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 36,
+            "start_time": 180.0,
+            "end_time": 185.0,
+            "arousal": 0.31091543094964086,
+            "valence": 0.6385696800250771,
+            "tension": 0.26237947948276535,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 37,
+            "start_time": 185.0,
+            "end_time": 190.0,
+            "arousal": 0.3083642018801308,
+            "valence": 0.614265908938172,
+            "tension": 0.28083588857098624,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 38,
+            "start_time": 190.0,
+            "end_time": 195.0,
+            "arousal": 0.31372856882052996,
+            "valence": 0.6618755197654872,
+            "tension": 0.2543698284151624,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 39,
+            "start_time": 195.0,
+            "end_time": 200.0,
+            "arousal": 0.29421533364668145,
+            "valence": 0.6538243182263664,
+            "tension": 0.24863752716997417,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 40,
+            "start_time": 200.0,
+            "end_time": 205.0,
+            "arousal": 0.3346944350281241,
+            "valence": 0.6069598288001543,
+            "tension": 0.2942514946117336,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 41,
+            "start_time": 205.0,
+            "end_time": 210.0,
+            "arousal": 0.2941158613981046,
+            "valence": 0.47010806980146724,
+            "tension": 0.303661106416693,
+            "primary_emotion": "sadness"
+        },
+        {
+            "segment": 42,
+            "start_time": 210.0,
+            "end_time": 215.0,
+            "arousal": 0.3853259977226463,
+            "valence": 0.5571648075465718,
+            "tension": 0.3678496808457179,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 43,
+            "start_time": 215.0,
+            "end_time": 220.0,
+            "arousal": 0.33790301318758387,
+            "valence": 0.5396609750924058,
+            "tension": 0.3285599577749447,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 44,
+            "start_time": 220.0,
+            "end_time": 225.0,
+            "arousal": 0.4477441946310393,
+            "valence": 0.5767899520502645,
+            "tension": 0.40478186240468406,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 45,
+            "start_time": 225.0,
+            "end_time": 230.0,
+            "arousal": 0.34168702959992836,
+            "valence": 0.7221665691154233,
+            "tension": 0.28414341807169774,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 46,
+            "start_time": 230.0,
+            "end_time": 235.0,
+            "arousal": 0.37168677976694553,
+            "valence": 0.6587030036444554,
+            "tension": 0.3270879967855197,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 47,
+            "start_time": 235.0,
+            "end_time": 240.0,
+            "arousal": 0.4125716548041767,
+            "valence": 0.5999035663432459,
+            "tension": 0.3769496460985268,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 48,
+            "start_time": 240.0,
+            "end_time": 245.0,
+            "arousal": 0.2890309236745086,
+            "valence": 0.6515031667837854,
+            "tension": 0.2510154142270334,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 49,
+            "start_time": 245.0,
+            "end_time": 250.0,
+            "arousal": 0.4212954797172064,
+            "valence": 0.5399441697468637,
+            "tension": 0.42603893710138624,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 50,
+            "start_time": 250.0,
+            "end_time": 255.0,
+            "arousal": 0.29514889250555953,
+            "valence": 0.6079011559950948,
+            "tension": 0.28325715909975097,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 51,
+            "start_time": 255.0,
+            "end_time": 260.0,
+            "arousal": 0.38761245588603416,
+            "valence": 0.5541802290196572,
+            "tension": 0.3946266400567283,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 52,
+            "start_time": 260.0,
+            "end_time": 265.0,
+            "arousal": 0.33697201179957337,
+            "valence": 0.491295331342317,
+            "tension": 0.3648765689030241,
+            "primary_emotion": "sadness"
+        },
+        {
+            "segment": 53,
+            "start_time": 265.0,
+            "end_time": 270.0,
+            "arousal": 0.3512422450160679,
+            "valence": 0.6481690887516802,
+            "tension": 0.32051156275531045,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 54,
+            "start_time": 270.0,
+            "end_time": 275.0,
+            "arousal": 0.3823065487393494,
+            "valence": 0.6487286590952931,
+            "tension": 0.3513534020564245,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 55,
+            "start_time": 275.0,
+            "end_time": 280.0,
+            "arousal": 0.3821377785655092,
+            "valence": 0.6030525459929436,
+            "tension": 0.3502484504714184,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 56,
+            "start_time": 280.0,
+            "end_time": 285.0,
+            "arousal": 0.35606148879407495,
+            "valence": 0.6208206120825066,
+            "tension": 0.31188679917684664,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 57,
+            "start_time": 285.0,
+            "end_time": 290.0,
+            "arousal": 0.4068340241840523,
+            "valence": 0.6397079827858982,
+            "tension": 0.36444648596451346,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 58,
+            "start_time": 290.0,
+            "end_time": 295.0,
+            "arousal": 0.3447304662230094,
+            "valence": 0.5741059538621582,
+            "tension": 0.3273170293615131,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 59,
+            "start_time": 295.0,
+            "end_time": 300.0,
+            "arousal": 0.36475867300863596,
+            "valence": 0.5918084751624103,
+            "tension": 0.3465680681728337,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 60,
+            "start_time": 300.0,
+            "end_time": 305.0,
+            "arousal": 0.33129576572243885,
+            "valence": 0.6144150904913469,
+            "tension": 0.2944057765571506,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 61,
+            "start_time": 305.0,
+            "end_time": 310.0,
+            "arousal": 0.38255581402566097,
+            "valence": 0.6007573840025761,
+            "tension": 0.3560889047263731,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 62,
+            "start_time": 310.0,
+            "end_time": 315.0,
+            "arousal": 0.4507382357660119,
+            "valence": 0.5238943660094246,
+            "tension": 0.4597229641382016,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 63,
+            "start_time": 315.0,
+            "end_time": 320.0,
+            "arousal": 0.4096001630992958,
+            "valence": 0.6638911689698139,
+            "tension": 0.3327474528087445,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 64,
+            "start_time": 320.0,
+            "end_time": 325.0,
+            "arousal": 0.3002146337326059,
+            "valence": 0.6046045002135692,
+            "tension": 0.26742407867776746,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 65,
+            "start_time": 325.0,
+            "end_time": 330.0,
+            "arousal": 0.3496881447301202,
+            "valence": 0.6831464596634185,
+            "tension": 0.304018991927248,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 66,
+            "start_time": 330.0,
+            "end_time": 335.0,
+            "arousal": 0.3689222748909211,
+            "valence": 0.6392054370590827,
+            "tension": 0.3423739603839222,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 67,
+            "start_time": 335.0,
+            "end_time": 340.0,
+            "arousal": 0.3225528845440565,
+            "valence": 0.7373674179197469,
+            "tension": 0.25393905278173096,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 68,
+            "start_time": 340.0,
+            "end_time": 345.0,
+            "arousal": 0.28989592279915843,
+            "valence": 0.7357292388323964,
+            "tension": 0.220389175339117,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 69,
+            "start_time": 345.0,
+            "end_time": 350.0,
+            "arousal": 0.4142601488677967,
+            "valence": 0.661963986580141,
+            "tension": 0.35692167300824895,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 70,
+            "start_time": 350.0,
+            "end_time": 355.0,
+            "arousal": 0.44491254472570685,
+            "valence": 0.6172500385113535,
+            "tension": 0.40713205332827584,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 71,
+            "start_time": 355.0,
+            "end_time": 360.0,
+            "arousal": 0.38949839882167625,
+            "valence": 0.628056169249832,
+            "tension": 0.3492134394271822,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 72,
+            "start_time": 360.0,
+            "end_time": 365.0,
+            "arousal": 0.32776552318560936,
+            "valence": 0.5877461792465828,
+            "tension": 0.31001328961445695,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 73,
+            "start_time": 365.0,
+            "end_time": 370.0,
+            "arousal": 0.317197194250466,
+            "valence": 0.6164838398857527,
+            "tension": 0.3056331643754612,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 74,
+            "start_time": 370.0,
+            "end_time": 375.0,
+            "arousal": 0.3877074242515912,
+            "valence": 0.5394521683476632,
+            "tension": 0.3921384920472818,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 75,
+            "start_time": 375.0,
+            "end_time": 380.0,
+            "arousal": 0.31485980230444016,
+            "valence": 0.5611108057515679,
+            "tension": 0.29180753094198025,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 76,
+            "start_time": 380.0,
+            "end_time": 385.0,
+            "arousal": 0.2926313838817396,
+            "valence": 0.5787452353739527,
+            "tension": 0.2649217460722715,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 77,
+            "start_time": 385.0,
+            "end_time": 390.0,
+            "arousal": 0.291905328276926,
+            "valence": 0.5531925331471215,
+            "tension": 0.2617935742475753,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 78,
+            "start_time": 390.0,
+            "end_time": 395.0,
+            "arousal": 0.33319729855779523,
+            "valence": 0.6685720147156085,
+            "tension": 0.2678580652897733,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 79,
+            "start_time": 395.0,
+            "end_time": 400.0,
+            "arousal": 0.38857595966792324,
+            "valence": 0.6784567037340391,
+            "tension": 0.336140262286198,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 80,
+            "start_time": 400.0,
+            "end_time": 405.0,
+            "arousal": 0.32027313954233716,
+            "valence": 0.6540690804467041,
+            "tension": 0.27541409738432404,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 81,
+            "start_time": 405.0,
+            "end_time": 410.0,
+            "arousal": 0.3994777417349168,
+            "valence": 0.6202118383876568,
+            "tension": 0.3641554867535052,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 82,
+            "start_time": 410.0,
+            "end_time": 415.0,
+            "arousal": 0.30504382293143356,
+            "valence": 0.6794597979359568,
+            "tension": 0.2615805781444522,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 83,
+            "start_time": 415.0,
+            "end_time": 420.0,
+            "arousal": 0.3704216014360553,
+            "valence": 0.6549980927629369,
+            "tension": 0.34540978468269024,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 84,
+            "start_time": 420.0,
+            "end_time": 425.0,
+            "arousal": 0.4957071397627958,
+            "valence": 0.5649306269979057,
+            "tension": 0.4718769874581777,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 85,
+            "start_time": 425.0,
+            "end_time": 430.0,
+            "arousal": 0.39241963966344295,
+            "valence": 0.5553768709047378,
+            "tension": 0.37417665859556193,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 86,
+            "start_time": 430.0,
+            "end_time": 435.0,
+            "arousal": 0.41796389130600553,
+            "valence": 0.5300825236992945,
+            "tension": 0.4296872922421282,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 87,
+            "start_time": 435.0,
+            "end_time": 440.0,
+            "arousal": 0.5147843152379739,
+            "valence": 0.5591915357232863,
+            "tension": 0.5105219230477809,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 88,
+            "start_time": 440.0,
+            "end_time": 445.0,
+            "arousal": 0.3501852608723507,
+            "valence": 0.6235651348930774,
+            "tension": 0.3321500676451137,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 89,
+            "start_time": 445.0,
+            "end_time": 450.0,
+            "arousal": 0.5998277839023212,
+            "valence": 0.4918338959593414,
+            "tension": 0.6395750939130691,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 90,
+            "start_time": 450.0,
+            "end_time": 455.0,
+            "arousal": 0.5994133260567577,
+            "valence": 0.4884115079709545,
+            "tension": 0.6243272713877217,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 91,
+            "start_time": 455.0,
+            "end_time": 460.0,
+            "arousal": 0.34722388078193334,
+            "valence": 0.5869276132322468,
+            "tension": 0.3391963557232368,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 92,
+            "start_time": 460.0,
+            "end_time": 465.0,
+            "arousal": 0.35778386582359045,
+            "valence": 0.5976386512070104,
+            "tension": 0.32480098258863727,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 93,
+            "start_time": 465.0,
+            "end_time": 470.0,
+            "arousal": 0.40894366684824157,
+            "valence": 0.5282921338065636,
+            "tension": 0.40417560107493933,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 94,
+            "start_time": 470.0,
+            "end_time": 475.0,
+            "arousal": 0.33966893559223865,
+            "valence": 0.6403073631779099,
+            "tension": 0.3103043311271268,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 95,
+            "start_time": 475.0,
+            "end_time": 480.0,
+            "arousal": 0.4809542119937191,
+            "valence": 0.554918947517641,
+            "tension": 0.4979384205259725,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 96,
+            "start_time": 480.0,
+            "end_time": 485.0,
+            "arousal": 0.45486829091307057,
+            "valence": 0.6398956869006284,
+            "tension": 0.41105498481105396,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 97,
+            "start_time": 485.0,
+            "end_time": 490.0,
+            "arousal": 0.30807408766576216,
+            "valence": 0.6396384689320116,
+            "tension": 0.26501652522467317,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 98,
+            "start_time": 490.0,
+            "end_time": 495.0,
+            "arousal": 0.32176584738936487,
+            "valence": 0.6223883382247575,
+            "tension": 0.28185837448289497,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 99,
+            "start_time": 495.0,
+            "end_time": 500.0,
+            "arousal": 0.4026183848537235,
+            "valence": 0.6700332581485214,
+            "tension": 0.3562756255600359,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 100,
+            "start_time": 500.0,
+            "end_time": 505.0,
+            "arousal": 0.36274833876554496,
+            "valence": 0.5985906451857363,
+            "tension": 0.3377963127010063,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 101,
+            "start_time": 505.0,
+            "end_time": 510.0,
+            "arousal": 0.485367633746829,
+            "valence": 0.5302611389378921,
+            "tension": 0.46595388304969154,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 102,
+            "start_time": 510.0,
+            "end_time": 515.0,
+            "arousal": 0.3090491925561353,
+            "valence": 0.7190555844907407,
+            "tension": 0.2248921608423462,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 103,
+            "start_time": 515.0,
+            "end_time": 520.0,
+            "arousal": 0.33974864919064096,
+            "valence": 0.6687915332731295,
+            "tension": 0.2812834895833333,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 104,
+            "start_time": 520.0,
+            "end_time": 525.0,
+            "arousal": 0.3038475856402208,
+            "valence": 0.7222087440751763,
+            "tension": 0.21971364723551462,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 105,
+            "start_time": 525.0,
+            "end_time": 530.0,
+            "arousal": 0.42243409929474174,
+            "valence": 0.677990273577509,
+            "tension": 0.3659990532347011,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 106,
+            "start_time": 530.0,
+            "end_time": 535.0,
+            "arousal": 0.3461259891312468,
+            "valence": 0.718079982328869,
+            "tension": 0.2677013086079339,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 107,
+            "start_time": 535.0,
+            "end_time": 540.0,
+            "arousal": 0.4427949345058423,
+            "valence": 0.5458255876876119,
+            "tension": 0.4499718292500132,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 108,
+            "start_time": 540.0,
+            "end_time": 545.0,
+            "arousal": 0.3008460999765109,
+            "valence": 0.6387789686328814,
+            "tension": 0.2707646351167782,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 109,
+            "start_time": 545.0,
+            "end_time": 550.0,
+            "arousal": 0.40291779978098463,
+            "valence": 0.5938320111937164,
+            "tension": 0.38272144589724333,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 110,
+            "start_time": 550.0,
+            "end_time": 555.0,
+            "arousal": 0.4740132756430737,
+            "valence": 0.5309722735132826,
+            "tension": 0.49211527032919644,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 111,
+            "start_time": 555.0,
+            "end_time": 560.0,
+            "arousal": 0.38583423666823946,
+            "valence": 0.6537843683145721,
+            "tension": 0.336846555359543,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 112,
+            "start_time": 560.0,
+            "end_time": 565.0,
+            "arousal": 0.47320940999959415,
+            "valence": 0.687703904872134,
+            "tension": 0.38711192000758643,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 113,
+            "start_time": 565.0,
+            "end_time": 570.0,
+            "arousal": 0.27432776743067894,
+            "valence": 0.6603360425067204,
+            "tension": 0.22141214187355046,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 114,
+            "start_time": 570.0,
+            "end_time": 575.0,
+            "arousal": 0.3142345795581583,
+            "valence": 0.5905132492835096,
+            "tension": 0.28836088875596533,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 115,
+            "start_time": 575.0,
+            "end_time": 580.0,
+            "arousal": 0.3202356283573076,
+            "valence": 0.5814890520693324,
+            "tension": 0.2924664318716398,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 116,
+            "start_time": 580.0,
+            "end_time": 585.0,
+            "arousal": 0.54583507866984,
+            "valence": 0.5370709470072751,
+            "tension": 0.5313911938641198,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 117,
+            "start_time": 585.0,
+            "end_time": 590.0,
+            "arousal": 0.42235353813882776,
+            "valence": 0.6819104342027889,
+            "tension": 0.363705417622022,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 118,
+            "start_time": 590.0,
+            "end_time": 595.0,
+            "arousal": 0.36051552075408116,
+            "valence": 0.6409060126281415,
+            "tension": 0.3350909629986254,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 119,
+            "start_time": 595.0,
+            "end_time": 600.0,
+            "arousal": 0.3900152740193359,
+            "valence": 0.6206181843637991,
+            "tension": 0.37308324669249426,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 120,
+            "start_time": 600.0,
+            "end_time": 605.0,
+            "arousal": 0.3786001687336433,
+            "valence": 0.6443775200479497,
+            "tension": 0.336075084771177,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 121,
+            "start_time": 605.0,
+            "end_time": 610.0,
+            "arousal": 0.37168047306266283,
+            "valence": 0.664490610579077,
+            "tension": 0.3214016688821026,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 122,
+            "start_time": 610.0,
+            "end_time": 615.0,
+            "arousal": 0.33847643393879945,
+            "valence": 0.7270039780368166,
+            "tension": 0.24963661921134195,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 123,
+            "start_time": 615.0,
+            "end_time": 620.0,
+            "arousal": 0.39349479317915037,
+            "valence": 0.6700380989583332,
+            "tension": 0.3303136732503822,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 124,
+            "start_time": 620.0,
+            "end_time": 625.0,
+            "arousal": 0.5043819706905373,
+            "valence": 0.5777064753155313,
+            "tension": 0.4717459296623742,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 125,
+            "start_time": 625.0,
+            "end_time": 630.0,
+            "arousal": 0.34217406065226863,
+            "valence": 0.5151384247241824,
+            "tension": 0.3447180758321474,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 126,
+            "start_time": 630.0,
+            "end_time": 635.0,
+            "arousal": 0.37458042553543813,
+            "valence": 0.6836365023905974,
+            "tension": 0.29738107886904763,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 127,
+            "start_time": 635.0,
+            "end_time": 640.0,
+            "arousal": 0.5654590307727092,
+            "valence": 0.6198741629214269,
+            "tension": 0.49888137508565245,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 128,
+            "start_time": 640.0,
+            "end_time": 645.0,
+            "arousal": 0.30336402196011913,
+            "valence": 0.6840438568190585,
+            "tension": 0.21363391085369338,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 129,
+            "start_time": 645.0,
+            "end_time": 650.0,
+            "arousal": 0.31207794285367063,
+            "valence": 0.7097500050053203,
+            "tension": 0.20604079819932003,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 130,
+            "start_time": 650.0,
+            "end_time": 655.0,
+            "arousal": 0.31445027717979956,
+            "valence": 0.6579529675443672,
+            "tension": 0.2476818576794144,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 131,
+            "start_time": 655.0,
+            "end_time": 660.0,
+            "arousal": 0.2771895061113663,
+            "valence": 0.6733261611643144,
+            "tension": 0.20561482183447977,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 132,
+            "start_time": 660.0,
+            "end_time": 665.0,
+            "arousal": 0.3472458245654205,
+            "valence": 0.5770665485146604,
+            "tension": 0.32282581101190483,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 133,
+            "start_time": 665.0,
+            "end_time": 670.0,
+            "arousal": 0.2853015412816171,
+            "valence": 0.6356114644937276,
+            "tension": 0.23592937646597617,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 134,
+            "start_time": 670.0,
+            "end_time": 675.0,
+            "arousal": 0.34544859213077994,
+            "valence": 0.6344475885623345,
+            "tension": 0.29395749502347235,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 135,
+            "start_time": 675.0,
+            "end_time": 680.0,
+            "arousal": 0.3711196490522792,
+            "valence": 0.5971958348034274,
+            "tension": 0.34679919570617224,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 136,
+            "start_time": 680.0,
+            "end_time": 685.0,
+            "arousal": 0.3475065354469954,
+            "valence": 0.6175505695064484,
+            "tension": 0.3228111460116454,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 137,
+            "start_time": 685.0,
+            "end_time": 690.0,
+            "arousal": 0.335707211479804,
+            "valence": 0.6323523626162073,
+            "tension": 0.2949174555183297,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 138,
+            "start_time": 690.0,
+            "end_time": 695.0,
+            "arousal": 0.3536919224490184,
+            "valence": 0.5454000276606592,
+            "tension": 0.34278643849206347,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 139,
+            "start_time": 695.0,
+            "end_time": 700.0,
+            "arousal": 0.3897389803365402,
+            "valence": 0.736624213219646,
+            "tension": 0.29431388261319313,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 140,
+            "start_time": 700.0,
+            "end_time": 705.0,
+            "arousal": 0.3498997548875493,
+            "valence": 0.6321466177868716,
+            "tension": 0.30192773640127346,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 141,
+            "start_time": 705.0,
+            "end_time": 710.0,
+            "arousal": 0.33856862402197135,
+            "valence": 0.6454750969562052,
+            "tension": 0.2989941197966081,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 142,
+            "start_time": 710.0,
+            "end_time": 715.0,
+            "arousal": 0.4118141496963988,
+            "valence": 0.6872459825217703,
+            "tension": 0.3534194416157666,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 143,
+            "start_time": 715.0,
+            "end_time": 720.0,
+            "arousal": 0.440275530087489,
+            "valence": 0.6743296113351255,
+            "tension": 0.3698071929768211,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 144,
+            "start_time": 720.0,
+            "end_time": 725.0,
+            "arousal": 0.3699228236057774,
+            "valence": 0.7036174781952711,
+            "tension": 0.3110927040943693,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 145,
+            "start_time": 725.0,
+            "end_time": 730.0,
+            "arousal": 0.3198685611002974,
+            "valence": 0.6458711749901994,
+            "tension": 0.28246438645602734,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 146,
+            "start_time": 730.0,
+            "end_time": 735.0,
+            "arousal": 0.5219057299627646,
+            "valence": 0.6091375875289351,
+            "tension": 0.4776866087152453,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 147,
+            "start_time": 735.0,
+            "end_time": 740.0,
+            "arousal": 0.4289953383905144,
+            "valence": 0.6554498360845095,
+            "tension": 0.3618837471915848,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 148,
+            "start_time": 740.0,
+            "end_time": 745.0,
+            "arousal": 0.39033255717513105,
+            "valence": 0.6120074221850198,
+            "tension": 0.34001041302747953,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 149,
+            "start_time": 745.0,
+            "end_time": 750.0,
+            "arousal": 0.2750158315844318,
+            "valence": 0.6818868101058466,
+            "tension": 0.20640489058711525,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 150,
+            "start_time": 750.0,
+            "end_time": 755.0,
+            "arousal": 0.3779020956386646,
+            "valence": 0.6698847030354387,
+            "tension": 0.31624482362505185,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 151,
+            "start_time": 755.0,
+            "end_time": 760.0,
+            "arousal": 0.46981368582357375,
+            "valence": 0.612671099875392,
+            "tension": 0.42431707894364057,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 152,
+            "start_time": 760.0,
+            "end_time": 765.0,
+            "arousal": 0.28104932710069386,
+            "valence": 0.6726976878375773,
+            "tension": 0.22193286513447963,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 153,
+            "start_time": 765.0,
+            "end_time": 770.0,
+            "arousal": 0.3133916576372992,
+            "valence": 0.5775418618041555,
+            "tension": 0.29093486762564563,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 154,
+            "start_time": 770.0,
+            "end_time": 775.0,
+            "arousal": 0.3506559755471095,
+            "valence": 0.6265815462067349,
+            "tension": 0.3142476858416978,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 155,
+            "start_time": 775.0,
+            "end_time": 780.0,
+            "arousal": 0.30479226857051656,
+            "valence": 0.7121052615367384,
+            "tension": 0.24585607569707985,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 156,
+            "start_time": 780.0,
+            "end_time": 785.0,
+            "arousal": 0.3351911200447233,
+            "valence": 0.7126757328869048,
+            "tension": 0.26651059089376483,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 157,
+            "start_time": 785.0,
+            "end_time": 790.0,
+            "arousal": 0.37096321127555554,
+            "valence": 0.7054160016241038,
+            "tension": 0.3044391836406942,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 158,
+            "start_time": 790.0,
+            "end_time": 795.0,
+            "arousal": 0.4158618724892197,
+            "valence": 0.5952237848600088,
+            "tension": 0.4042305735245487,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 159,
+            "start_time": 795.0,
+            "end_time": 800.0,
+            "arousal": 0.242072732049591,
+            "valence": 0.6290530461399528,
+            "tension": 0.2263156985623551,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 160,
+            "start_time": 800.0,
+            "end_time": 805.0,
+            "arousal": 0.36663790686130177,
+            "valence": 0.6116579931382273,
+            "tension": 0.3637848078525392,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 161,
+            "start_time": 805.0,
+            "end_time": 810.0,
+            "arousal": 0.2773562625484841,
+            "valence": 0.6126482632238464,
+            "tension": 0.26431061290981445,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 162,
+            "start_time": 810.0,
+            "end_time": 815.0,
+            "arousal": 0.3191364519969487,
+            "valence": 0.5832671693121693,
+            "tension": 0.3203601118340855,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 163,
+            "start_time": 815.0,
+            "end_time": 820.0,
+            "arousal": 0.3060107690251339,
+            "valence": 0.5184663936141913,
+            "tension": 0.3219537554191703,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 164,
+            "start_time": 820.0,
+            "end_time": 825.0,
+            "arousal": 0.3471292587261218,
+            "valence": 0.5463680566578483,
+            "tension": 0.33431103088689185,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 165,
+            "start_time": 825.0,
+            "end_time": 830.0,
+            "arousal": 0.41146246511015394,
+            "valence": 0.5897039455925178,
+            "tension": 0.3696252200693786,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 166,
+            "start_time": 830.0,
+            "end_time": 835.0,
+            "arousal": 0.3737554728691864,
+            "valence": 0.5874540816523367,
+            "tension": 0.3450723179190658,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 167,
+            "start_time": 835.0,
+            "end_time": 840.0,
+            "arousal": 0.37407167292298327,
+            "valence": 0.6668391839927755,
+            "tension": 0.30040238221128496,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 168,
+            "start_time": 840.0,
+            "end_time": 845.0,
+            "arousal": 0.3979779017713028,
+            "valence": 0.5761297332451498,
+            "tension": 0.3651346251556178,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 169,
+            "start_time": 845.0,
+            "end_time": 850.0,
+            "arousal": 0.3303726806580667,
+            "valence": 0.6927015104166667,
+            "tension": 0.24006128309152963,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 170,
+            "start_time": 850.0,
+            "end_time": 855.0,
+            "arousal": 0.3185201155318071,
+            "valence": 0.5915759356054343,
+            "tension": 0.2967488106423125,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 171,
+            "start_time": 855.0,
+            "end_time": 860.0,
+            "arousal": 0.3456791767444044,
+            "valence": 0.44506271767893146,
+            "tension": 0.38228586595542113,
+            "primary_emotion": "sadness"
+        },
+        {
+            "segment": 172,
+            "start_time": 860.0,
+            "end_time": 865.0,
+            "arousal": 0.3477213415083088,
+            "valence": 0.5873682186604386,
+            "tension": 0.33555862471956377,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 173,
+            "start_time": 865.0,
+            "end_time": 870.0,
+            "arousal": 0.29707914116565676,
+            "valence": 0.6462303793892809,
+            "tension": 0.2502657950944155,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 174,
+            "start_time": 870.0,
+            "end_time": 875.0,
+            "arousal": 0.4342117029306555,
+            "valence": 0.6991955507330245,
+            "tension": 0.37080765677683103,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 175,
+            "start_time": 875.0,
+            "end_time": 880.0,
+            "arousal": 0.43327453272954036,
+            "valence": 0.5374060765989024,
+            "tension": 0.4337192912169908,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 176,
+            "start_time": 880.0,
+            "end_time": 885.0,
+            "arousal": 0.30103195950550765,
+            "valence": 0.6471556312003969,
+            "tension": 0.2589272727817979,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 177,
+            "start_time": 885.0,
+            "end_time": 890.0,
+            "arousal": 0.3936463364073287,
+            "valence": 0.5784014100302419,
+            "tension": 0.3752693818851466,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 178,
+            "start_time": 890.0,
+            "end_time": 895.0,
+            "arousal": 0.40587660106583545,
+            "valence": 0.6397593320450286,
+            "tension": 0.3667130488769582,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 179,
+            "start_time": 895.0,
+            "end_time": 900.0,
+            "arousal": 0.34623528904147377,
+            "valence": 0.6389676716159833,
+            "tension": 0.30574457303855684,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 180,
+            "start_time": 900.0,
+            "end_time": 905.0,
+            "arousal": 0.350008818651944,
+            "valence": 0.6583608012979498,
+            "tension": 0.29760973667360463,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 181,
+            "start_time": 905.0,
+            "end_time": 910.0,
+            "arousal": 0.3729603180315645,
+            "valence": 0.6924892826640903,
+            "tension": 0.2964991873221064,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 182,
+            "start_time": 910.0,
+            "end_time": 915.0,
+            "arousal": 0.6463715078248353,
+            "valence": 0.6153141976686508,
+            "tension": 0.5781726949437181,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 183,
+            "start_time": 915.0,
+            "end_time": 920.0,
+            "arousal": 0.4103808135315117,
+            "valence": 0.5389226966075829,
+            "tension": 0.38517270043518076,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 184,
+            "start_time": 920.0,
+            "end_time": 925.0,
+            "arousal": 0.3403895862367557,
+            "valence": 0.5241844681781855,
+            "tension": 0.3535090179544039,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 185,
+            "start_time": 925.0,
+            "end_time": 930.0,
+            "arousal": 0.29541120124103104,
+            "valence": 0.5468223756370408,
+            "tension": 0.2982581400880244,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 186,
+            "start_time": 930.0,
+            "end_time": 935.0,
+            "arousal": 0.49019700758492446,
+            "valence": 0.5655873843970459,
+            "tension": 0.48197396424194666,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 187,
+            "start_time": 935.0,
+            "end_time": 940.0,
+            "arousal": 0.40886941762570317,
+            "valence": 0.538617902315748,
+            "tension": 0.4112910499930819,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 188,
+            "start_time": 940.0,
+            "end_time": 945.0,
+            "arousal": 0.30285068097557716,
+            "valence": 0.6794442266727292,
+            "tension": 0.24125047438304026,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 189,
+            "start_time": 945.0,
+            "end_time": 950.0,
+            "arousal": 0.3282496144288868,
+            "valence": 0.6740274935595878,
+            "tension": 0.26697613366902534,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 190,
+            "start_time": 950.0,
+            "end_time": 955.0,
+            "arousal": 0.49078764684988985,
+            "valence": 0.7063945870191248,
+            "tension": 0.40088623117997196,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 191,
+            "start_time": 955.0,
+            "end_time": 960.0,
+            "arousal": 0.43420513522927684,
+            "valence": 0.6355058895119288,
+            "tension": 0.39626954243424517,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 192,
+            "start_time": 960.0,
+            "end_time": 965.0,
+            "arousal": 0.5390019268906098,
+            "valence": 0.5359738398024141,
+            "tension": 0.5320878771543339,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 193,
+            "start_time": 965.0,
+            "end_time": 970.0,
+            "arousal": 0.4789668037407674,
+            "valence": 0.611429571922603,
+            "tension": 0.42607637671634513,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 194,
+            "start_time": 970.0,
+            "end_time": 975.0,
+            "arousal": 0.36266083941395255,
+            "valence": 0.6387390281911374,
+            "tension": 0.2885372919098195,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 195,
+            "start_time": 975.0,
+            "end_time": 980.0,
+            "arousal": 0.34758540780201563,
+            "valence": 0.6032382225512432,
+            "tension": 0.29525974276236033,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 196,
+            "start_time": 980.0,
+            "end_time": 985.0,
+            "arousal": 0.38716797189657515,
+            "valence": 0.5599351024443342,
+            "tension": 0.36526229297158674,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 197,
+            "start_time": 985.0,
+            "end_time": 990.0,
+            "arousal": 0.3024762246966498,
+            "valence": 0.5988612986531138,
+            "tension": 0.28504113831402855,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 198,
+            "start_time": 990.0,
+            "end_time": 995.0,
+            "arousal": 0.3821865414771852,
+            "valence": 0.5715486308145943,
+            "tension": 0.36119268119747905,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 199,
+            "start_time": 995.0,
+            "end_time": 1000.0,
+            "arousal": 0.37769501258142735,
+            "valence": 0.6808172077312947,
+            "tension": 0.30259569428796385,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 200,
+            "start_time": 1000.0,
+            "end_time": 1005.0,
+            "arousal": 0.37704731217435294,
+            "valence": 0.635138256310626,
+            "tension": 0.32601961632917054,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 201,
+            "start_time": 1005.0,
+            "end_time": 1010.0,
+            "arousal": 0.4722307255729412,
+            "valence": 0.6686406014784947,
+            "tension": 0.3987241872973988,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 202,
+            "start_time": 1010.0,
+            "end_time": 1015.0,
+            "arousal": 0.5135041274236007,
+            "valence": 0.656488388034612,
+            "tension": 0.4432200775495383,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 203,
+            "start_time": 1015.0,
+            "end_time": 1020.0,
+            "arousal": 0.3146154504306262,
+            "valence": 0.6217686980916778,
+            "tension": 0.2714647771304422,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 204,
+            "start_time": 1020.0,
+            "end_time": 1025.0,
+            "arousal": 0.40181182353445255,
+            "valence": 0.4983828960331239,
+            "tension": 0.3982163417820832,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 205,
+            "start_time": 1025.0,
+            "end_time": 1030.0,
+            "arousal": 0.4373606588298461,
+            "valence": 0.676438188564068,
+            "tension": 0.3452885789996442,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 206,
+            "start_time": 1030.0,
+            "end_time": 1035.0,
+            "arousal": 0.5415131670348156,
+            "valence": 0.6405723586653989,
+            "tension": 0.4544776468399859,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 207,
+            "start_time": 1035.0,
+            "end_time": 1040.0,
+            "arousal": 0.38261221375289056,
+            "valence": 0.5341937365591398,
+            "tension": 0.3867534274934772,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 208,
+            "start_time": 1040.0,
+            "end_time": 1045.0,
+            "arousal": 0.34367028184833365,
+            "valence": 0.6446329220747905,
+            "tension": 0.3154762621495357,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 209,
+            "start_time": 1045.0,
+            "end_time": 1050.0,
+            "arousal": 0.30439844560114065,
+            "valence": 0.6013732966159835,
+            "tension": 0.28831022077765917,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 210,
+            "start_time": 1050.0,
+            "end_time": 1055.0,
+            "arousal": 0.5246479895981002,
+            "valence": 0.5754769537450397,
+            "tension": 0.5089439456488614,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 211,
+            "start_time": 1055.0,
+            "end_time": 1060.0,
+            "arousal": 0.46002427165400794,
+            "valence": 0.5926734584313396,
+            "tension": 0.4417308389172201,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 212,
+            "start_time": 1060.0,
+            "end_time": 1065.0,
+            "arousal": 0.414189225073772,
+            "valence": 0.6426400759548612,
+            "tension": 0.34454282497373945,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 213,
+            "start_time": 1065.0,
+            "end_time": 1070.0,
+            "arousal": 0.46661731502054815,
+            "valence": 0.6547130839423723,
+            "tension": 0.3899113820037423,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 214,
+            "start_time": 1070.0,
+            "end_time": 1075.0,
+            "arousal": 0.4815315129148343,
+            "valence": 0.6519293348696537,
+            "tension": 0.41948300977798536,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 215,
+            "start_time": 1075.0,
+            "end_time": 1080.0,
+            "arousal": 0.5091797623112925,
+            "valence": 0.6567541025775648,
+            "tension": 0.4241592956643343,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 216,
+            "start_time": 1080.0,
+            "end_time": 1085.0,
+            "arousal": 0.5216717026712925,
+            "valence": 0.6570000264894731,
+            "tension": 0.4354279190009336,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 217,
+            "start_time": 1085.0,
+            "end_time": 1090.0,
+            "arousal": 0.3272353969307316,
+            "valence": 0.7147241948434697,
+            "tension": 0.2783348648995889,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 218,
+            "start_time": 1090.0,
+            "end_time": 1095.0,
+            "arousal": 0.32245598235538836,
+            "valence": 0.6851611579241071,
+            "tension": 0.28163109721898016,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 219,
+            "start_time": 1095.0,
+            "end_time": 1100.0,
+            "arousal": 0.43877598305765547,
+            "valence": 0.5367722080813171,
+            "tension": 0.4444214991335916,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 220,
+            "start_time": 1100.0,
+            "end_time": 1105.0,
+            "arousal": 0.47689849292443076,
+            "valence": 0.5063833163855819,
+            "tension": 0.48736793029132963,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 221,
+            "start_time": 1105.0,
+            "end_time": 1110.0,
+            "arousal": 0.5140311691542716,
+            "valence": 0.5208830883526545,
+            "tension": 0.5217982762920357,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 222,
+            "start_time": 1110.0,
+            "end_time": 1115.0,
+            "arousal": 0.35950395883764796,
+            "valence": 0.5892379317198523,
+            "tension": 0.327440748359529,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 223,
+            "start_time": 1115.0,
+            "end_time": 1120.0,
+            "arousal": 0.37682465099593293,
+            "valence": 0.5646170212743615,
+            "tension": 0.3441187234394766,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 224,
+            "start_time": 1120.0,
+            "end_time": 1125.0,
+            "arousal": 0.3355790087650262,
+            "valence": 0.587822178474978,
+            "tension": 0.29869035103161634,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 225,
+            "start_time": 1125.0,
+            "end_time": 1130.0,
+            "arousal": 0.4699169959648346,
+            "valence": 0.5709433151321684,
+            "tension": 0.45302691406250006,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 226,
+            "start_time": 1130.0,
+            "end_time": 1135.0,
+            "arousal": 0.3919994896888773,
+            "valence": 0.5823120842978394,
+            "tension": 0.3648523615244709,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 227,
+            "start_time": 1135.0,
+            "end_time": 1140.0,
+            "arousal": 0.35617852199661815,
+            "valence": 0.6378455143229167,
+            "tension": 0.2977467195241671,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 228,
+            "start_time": 1140.0,
+            "end_time": 1145.0,
+            "arousal": 0.37054746779215564,
+            "valence": 0.5690300377190806,
+            "tension": 0.3540341666504565,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 229,
+            "start_time": 1145.0,
+            "end_time": 1150.0,
+            "arousal": 0.30780483313935486,
+            "valence": 0.5370672806409609,
+            "tension": 0.3099459246521189,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 230,
+            "start_time": 1150.0,
+            "end_time": 1155.0,
+            "arousal": 0.4500648702392457,
+            "valence": 0.5418958226893187,
+            "tension": 0.4343369630294248,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 231,
+            "start_time": 1155.0,
+            "end_time": 1160.0,
+            "arousal": 0.4462643705497491,
+            "valence": 0.5975362464647738,
+            "tension": 0.4080823520434719,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 232,
+            "start_time": 1160.0,
+            "end_time": 1165.0,
+            "arousal": 0.3406759691927159,
+            "valence": 0.5994264796213624,
+            "tension": 0.28028129280300085,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 233,
+            "start_time": 1165.0,
+            "end_time": 1170.0,
+            "arousal": 0.36183468057900275,
+            "valence": 0.5418400781600023,
+            "tension": 0.3453225776473223,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 234,
+            "start_time": 1170.0,
+            "end_time": 1175.0,
+            "arousal": 0.4056928140093463,
+            "valence": 0.5597673190517526,
+            "tension": 0.40645479312558364,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 235,
+            "start_time": 1175.0,
+            "end_time": 1180.0,
+            "arousal": 0.4098055974235631,
+            "valence": 0.5772009848930331,
+            "tension": 0.4085618773883881,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 236,
+            "start_time": 1180.0,
+            "end_time": 1185.0,
+            "arousal": 0.35514606220677325,
+            "valence": 0.5896918332162147,
+            "tension": 0.3395209692881782,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 237,
+            "start_time": 1185.0,
+            "end_time": 1190.0,
+            "arousal": 0.3311174673832406,
+            "valence": 0.5109079989569332,
+            "tension": 0.36358275888480396,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 238,
+            "start_time": 1190.0,
+            "end_time": 1195.0,
+            "arousal": 0.36039252514380005,
+            "valence": 0.43516793161651224,
+            "tension": 0.47066255912665994,
+            "primary_emotion": "sadness"
+        },
+        {
+            "segment": 239,
+            "start_time": 1195.0,
+            "end_time": 1200.0,
+            "arousal": 0.3578889422870462,
+            "valence": 0.466939522079413,
+            "tension": 0.3996450003376687,
+            "primary_emotion": "sadness"
+        },
+        {
+            "segment": 240,
+            "start_time": 1200.0,
+            "end_time": 1205.0,
+            "arousal": 0.3775345215256861,
+            "valence": 0.5252818178874559,
+            "tension": 0.3677503344161739,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 241,
+            "start_time": 1205.0,
+            "end_time": 1210.0,
+            "arousal": 0.455500698262958,
+            "valence": 0.5542878181353605,
+            "tension": 0.4403326589513493,
+            "primary_emotion": "neutral"
+        },
+        {
+            "segment": 242,
+            "start_time": 1210.0,
+            "end_time": 1215.0,
+            "arousal": 0.5595373591190568,
+            "valence": 0.6292087533068783,
+            "tension": 0.5192247776367491,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 243,
+            "start_time": 1215.0,
+            "end_time": 1220.0,
+            "arousal": 0.6073407561443094,
+            "valence": 0.7021811784204188,
+            "tension": 0.5135473931319838,
+            "primary_emotion": "contentment"
+        },
+        {
+            "segment": 244,
+            "start_time": 1220.0,
+            "end_time": 1225.0,
+            "arousal": 0.3309924787826629,
+            "valence": 0.7646669695216047,
+            "tension": 0.22356689809951769,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 245,
+            "start_time": 1225.0,
+            "end_time": 1230.0,
+            "arousal": 0.25107173798597093,
+            "valence": 0.7323553981154795,
+            "tension": 0.20049442840106474,
+            "primary_emotion": "calmness"
+        },
+        {
+            "segment": 246,
+            "start_time": 1230.0,
+            "end_time": 1233.48,
+            "arousal": 0.32672807813077764,
+            "valence": 0.7375496460700757,
+            "tension": 0.27586622029114677,
+            "primary_emotion": "calmness"
+        }
+    ]
+}
